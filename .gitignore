@@ -1,0 +1,11 @@
+# Unreal Generated Files
+*_BuiltData.uasset
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+Escape/Content/StarterContent/
+
+# Visual Studio Generated Files
+*.VC.db
